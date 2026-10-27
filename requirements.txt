@@ -1,0 +1,2 @@
+Flask==3.1.2
+vercel-blob>=0.5.0
